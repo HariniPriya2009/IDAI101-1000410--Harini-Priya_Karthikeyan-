@@ -6,9 +6,11 @@ School Name: Jain Vidyalaya Student
 Name: Harini Priya Karthikeyan 
 Candidate Registration Number: 1000410
 Link for the chatbot:
+----------------------------------------------------------------------------------------------
 About the project:
         An AI-powered campus helper chatbot built using Google Dialogflow.  
 It helps students, teachers, parents, and visitors easily access information about locations, departments, and facilities on the school campus.The chatbot improves navigation, saves time, and provides an interactive way to explore the campus.
+-----------------------------------------------------------------------------------------------
 Intents and Their Purpose:
 1.Admin block:
     provides the direction to the administration building.
@@ -48,7 +50,7 @@ Intents and Their Purpose:
      Provides the location and safety instructions for the climbing area.
 19.KGS Block:
      Gives directions to the Kindergarten Section.    
-
+----------------------------------------------------------------------------------------------
 Entities and Their Meanings:
 1.@location:
          Identifies places within the school. 
@@ -72,9 +74,8 @@ Entities and Their Meanings:
      identifies the loctaion of the libary
 11.Science:
     identifie the location of the labs(chemistrylab, physics lab, and biology lab)
-
+-----------------------------------------------------------------------------------------------
 Sample Response: 
-
 User:
     Where is the canteen?
 Bot:
