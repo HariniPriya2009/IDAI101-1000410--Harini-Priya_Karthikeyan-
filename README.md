@@ -31,7 +31,7 @@ Intents and Their Purpose:
 10.Group 11: 
      It will lists available subject groups for Class 11 (CBSE).
 11.IB group:
-
+     It provides the info about the DP subjects and the core subjes.
 12.lib.location:
      Provides the library’s location, opening hours, and rules.
 13.Principal Office:
@@ -73,3 +73,30 @@ Entities and Their Meanings:
 11.Science:
     identifie the location of the labs(chemistrylab, physics lab, and biology lab)
 
+Sample Response: 
+
+User:
+    Where is the canteen?
+Bot:
+    🍴 The canteen is near the 🧗‍♂️ wall climbing arena.
+---------------------------------------------------------------------------------------------
+User:
+    May i know abt the fee details for cbse ?
+Bot: 
+   Sorry, contact : 90876 65432 to know about the fee details.
+---------------------------------------------------------------------------------------------
+User: 
+   What documents are required for IB admission?
+Bot:
+   I can help you with the IB admission process.
+The admission process starts with filling out the application form on our website, followed by an interview and submission of required documents.You will need: Birth certificate, previous school records, ID proof, and a passport-sized photo.For further details- contact : +91 98xxx xxx72 
+---------------------------------------------------------------------------------------------
+User:
+  Is there a swimming pool in Jain Vidyalaya?
+Bot:
+  🏊‍♀️ The swimming pool is located near the sports complex, behind the main playground.  
+You can access it through the back gate near the gym area.  
+📍View Swimming Pool on Google Maps: https://maps.google.com/?q=Jain+Vidyalaya+Madurai+Swimming+Pool
+------------------------------------------------------------------------------------------------
+Conclusion:
+       The Smart Campus Assistant serves as an innovative and user-friendly solution to enhance campus life at Jain Vidyalaya, Madurai. Integration of Google Maps and location images is planned for future updates to enhance user experience.
