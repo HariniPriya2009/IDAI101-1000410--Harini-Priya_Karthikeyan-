@@ -11,7 +11,7 @@ Name: Harini Priya Karthikeyan
 
 Candidate Registration Number: 1000410
 
-Link for the chatbot:
+Link for the chatbot: https://harinipriya2009.github.io/IDAI101-1000410--Harini-Priya_Karthikeyan-/
 
 About the project:
         An AI-powered campus helper chatbot built using Google Dialogflow.  
