@@ -20,12 +20,16 @@ Intents and Their Purpose:
     
 3.Arts.loc:
     Assists users in locating the classrooms for Grade 11 and 12 Arts group.
+    
 4.Canteen.location:
     Provides the location of the school canteen.
+    
 5.Commerce.location:
     Informs about the commerce block and classrooms location.
+    
 6.Default Fallback intent:
     It will give the Answer like "Sorry i am not able to understand your quriers please contact: 90*** ***89" as a default.
+    
 7.emergency contact:
     Displays important emergency phone numbers.
 8.Fee_detail:
