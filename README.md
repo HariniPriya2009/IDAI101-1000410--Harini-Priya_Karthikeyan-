@@ -14,8 +14,10 @@ It helps students, teachers, parents, and visitors easily access information abo
 Intents and Their Purpose:
 1.Admin block:
     provides the direction to the administration building.
+    
 2.AD:
     Explains the admission process and details for new students.
+    
 3.Arts.loc:
     Assists users in locating the classrooms for Grade 11 and 12 Arts group.
 4.Canteen.location:
