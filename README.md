@@ -86,16 +86,16 @@ Entities and Their Meanings:
          Recognizes departments or groups.
          
 3.@admin:
-        identitifies the admins location.
+        identitifies the admins' name.
         
 4.@Arts:
       identifies the art group name
       
 5.Cafe:
-    identifies the loctaion of the cafe or canteen.
+    identifies the  the cafe or canteen.
     
 6.commerce: 
-    identifies the location of commerce classroom.
+    identifies the commerce classroom.
     
 7.Day: 
     identifies the days (Working days,non working days)
@@ -107,10 +107,10 @@ Entities and Their Meanings:
     identifies the class and grades.(1st to 12th)
     
 10.lib:
-     identifies the loctaion of the libary
+     identifies different words of libary
      
 11.Science:
-    identifie the location of the labs(chemistrylab, physics lab, and biology lab)
+    identifie the  labs(chemistrylab, physics lab, and biology lab)
     
 
 Sample Response:
